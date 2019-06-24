@@ -16,7 +16,7 @@ This code is the *"basic"* type of QEA which employed in the following publicati
 * [*"A New Two-Phase Hybrid Evolutionary Algorithm for Fractal Image Compression."*](http://www.academia.edu/download/34535307/2PhaseQEA.pdf)
 
 For running we need:
-* Mtlab 2009 or later versions
+* Matlab 2009 or later versions
 * Windows XP,7,Vista,8,10
 * Inpute file which shoud be with *.txt* extension
 
